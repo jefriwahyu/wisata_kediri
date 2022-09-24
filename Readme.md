@@ -3,6 +3,7 @@ Wisata Kediri adalah website yang berisikan informasi tentang wisata yang ada di
 
 ## Fitur
 
+- Pesan tiket wisata
 - Operasi penjumlahan total bayar
 - Menyimpan data di dalam database json
 - Menampilkan bukti pembayaran
